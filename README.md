@@ -25,7 +25,7 @@
 ### GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Son_SETO&show_icons=true&theme=github_dark" alt="SETO's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SonSETO&show_icons=true&theme=github_dark" alt="SETO's GitHub Stats" />
 </p>
 
 
