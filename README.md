@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently exploring backend development, working on various projects to deepen my understanding.
-- 🌱 I’m delving into NestJS and building a strong foundation in Node.js, Express, TypeORM, and JWT for authentication.
-- 👯 I’m eager to learn from and collaborate with other developers on open-source backend projects.
-- 🤔 I’m always open to guidance on advanced NestJS techniques and ways to improve performance.
-- 💬 Feel free to ask me about backend fundamentals—I'm especially interested in Node.js, Express, and secure authentication with JWT.
-- 📫 How to reach me: yesthis9090@gmail.com
-- 😄 Pronouns: He/Him
+- 백엔드 개발에 관심이 있으며 Node.js, Express, 그리고 NestJS를 특히 좋아합니다.
+- 재미있게 학습하며 꾸준히 성장하고 있습니다.
+
 - ⚡ Fun fact: What started as a hobby has become a true passion—I’m finding real enjoyment in backend development!
+- 📫 How to reach me: yesthis9090@gmail.com
 
 ## Languages and Tools:
 
