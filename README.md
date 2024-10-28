@@ -17,12 +17,3 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-FF2D20?logo=typeorm&logoColor=white&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
-
-
-### GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SonSETO&show_icons=true&theme=github_dark" alt="SETO's GitHub Stats" />
-</p>
-
-
