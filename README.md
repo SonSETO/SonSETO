@@ -1,11 +1,8 @@
 ## Hello It's me SETO 👋
 
-- I'm a backend developer with a strong interest in Node.js, Express, and NestJS.
-- I currently manage iruristudio and contribute as a lead developer at sponer.
-- I’m always learning and working to grow as a developer.
+- What started as a curiosity has turned into a hobby and a meaningful journey.
 
-- ⚡ Fun fact: What started as a hobby has become a meaningful journey—I’m really enjoying backend development!
-- 📫 Feel free to reach out: yesthis9090@gmail.com
+- 📫 : yesthis9090@gmail.com
 
 ## Experience
 
