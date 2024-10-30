@@ -1,4 +1,4 @@
-## Welcome to SETOworld 👋
+## Hello It's me SETO 👋
 
 - I'm a backend developer with a strong interest in Node.js, Express, and NestJS.
 - I currently manage iruristudio and contribute as a lead developer at sponer.
@@ -13,6 +13,7 @@
 - **Sponer Platform** -Founder & Lead Developer (2024.10.25 ~)
 - **ELICE Node Track** (2024.8.5 ~)
 - **Sejong University** - Graduate School of Convergence Arts, Master of Practical Dance, Arts (2014.03.04~2017.02.17)
+- **Gamblerz Crew** - Member (2014~2021)
 
 
 ## Languages and Tools:
