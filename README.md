@@ -1,10 +1,19 @@
-## Hi there 👋
+## Welcome to SETOworld 👋
 
-- 백엔드 개발에 관심이 있으며 Node.js, Express, 그리고 NestJS를 특히 좋아합니다.
-- 재미있게 학습하며 꾸준히 성장하고 있습니다.
+- I'm a backend developer with a strong interest in Node.js, Express, and NestJS.
+- I currently manage iruristudio and contribute as a lead developer at sponer.
+- I’m always learning and working to grow as a developer.
 
-- ⚡ Fun fact: What started as a hobby has become a true passion—I’m finding real enjoyment in backend development!
-- 📫 How to reach me: yesthis9090@gmail.com
+- ⚡ Fun fact: What started as a hobby has become a meaningful journey—I’m really enjoying backend development!
+- 📫 Feel free to reach out: yesthis9090@gmail.com
+
+## Experience
+
+- **Iruri Studio** - Founder & CEO (2020.12.14 ~)
+- **Sponer Platform** -Founder & Lead Developer (2024.10.25 ~)
+- **ELICE Node Track** (2024.8.5 ~)
+- **Sejong University** - Graduate School of Convergence Arts, Master of Practical Dance, Arts (2014.03.04~2017.02.17)
+
 
 ## Languages and Tools:
 
@@ -17,4 +26,3 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-FF2D20?logo=typeorm&logoColor=white&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
-![WakaTime](https://wakatime.com/badge/user/SonSETO.svg?style=for-the-badge)
