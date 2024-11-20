@@ -7,7 +7,6 @@
 ## Experience
 
 - **Iruri Studio** - Founder & CEO (2020.12.14 ~)
-- **Sponer Platform** -Founder & Lead Developer (2024.10.25 ~)
 - **ELICE Node Track** (2024.8.5 ~)
 - **Sejong University** - Graduate School of Convergence Arts, Master of Practical Dance, Arts (2014.03.04~2017.02.17)
 - **Gamblerz Crew** - Member (2012~2021)
