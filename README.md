@@ -1,3 +1,12 @@
+### Projects
+
+| 프로젝트 | 내용 | 상태 |
+|---|---|---|
+| **이루리 예약 자동화** | 무인 연습실 예약 동기화·안내 서버 · 1인 개발·운영 · 30일 이용 1,592건 | 2026.07\~ 실운영 |
+| **PLAY DANCE ERP** | 댄스학원 강사 급여 정산 · 월 정산 1\~3시간 → 10\~20분 | 2026.10\~ 실사용 |
+| **Sponer** | 협찬 의상 대여 B2B 플랫폼 · 백엔드 개발 | 출시 전 |
+| **predebut** | 10대 지망생 포트폴리오 플랫폼 · 미성년자 보호 fail-closed | 출시 전 |
+
 ### Public repositories
 
 - [pawpaw-backend](https://github.com/SonSETO/pawpaw-backend) — 엘리스 팀 프로젝트 · NestJS, TypeORM, MySQL · 공공데이터 수집, 반경 검색
